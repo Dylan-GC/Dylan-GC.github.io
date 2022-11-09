@@ -1,0 +1,25 @@
+.navbar-expand-lg{
+    background-color: #F1F4CD!important;
+}
+ 
+.nav-link {
+    color: #A6BC2D !important;
+    font-size: larger !important;
+}
+ 
+.nav-item {
+    color: black;
+}
+ 
+.nav-link:hover {
+    color: black !important;
+}
+ 
+.navbar-brand img {
+    height: 40px;
+}
+ 
+.main-footer {
+    font-size: larger !important;
+    color: #A6BC2D;
+}
